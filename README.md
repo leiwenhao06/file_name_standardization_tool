@@ -47,8 +47,8 @@
 
 ### 下载源码
 ```bash
-git clone https://github.com//report-renamer.git
-cd report-renamer
+git clone https://github.com//file_name_standardization_tool.git
+cd file_name_standardization_tool
 ```
 
 ### 可选依赖（仅用于自动生成配置文件）
