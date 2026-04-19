@@ -1,5 +1,5 @@
 # config.py 示例文件
-# 本文件由 generate_config.py 自动生成，请勿手动修改
+# 本文件由 generate_config.py 自动生成
 # 如需更新，请重新运行脚本
 
 SUBJECTS = {}
