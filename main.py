@@ -20,7 +20,7 @@ import sys
 import argparse
 from config import SUBJECTS
 
-WORD_EXTENSIONS = ('.doc', '.docx')
+WORD_EXTENSIONS = ('.doc', '.docx', '.pdf')
 
 
 def match_name(filename_no_ext: str, mapping: dict) -> tuple:
